@@ -12,7 +12,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/btcsuite/winsvc/winapi"
+	"github.com/btcsuitereleases/winsvc/winapi"
 )
 
 type Key struct {

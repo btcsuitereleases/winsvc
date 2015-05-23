@@ -14,8 +14,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/btcsuite/winsvc/mgr"
-	"github.com/btcsuite/winsvc/svc"
+	"github.com/btcsuitereleases/winsvc/mgr"
+	"github.com/btcsuitereleases/winsvc/svc"
 )
 
 func getState(t *testing.T, s *mgr.Service) svc.State {
